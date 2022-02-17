@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Expletus+Sans&family=Megrim&display=swap');
+
+/* https://fonts.google.com/share?selection.family=Megrim */
+body {
+  margin: 0;
+}
+
+svg {
+  width: 100%;
+}
+
+.title {
+  font-family: 'Megrim', cursive;
+  font-size: 3em;
+
+}
+
+.desc {
+  font-family: 'Expletus Sans', cursive;
+  font-size: 1em;
+  text-decoration: underline;
+}
+
+.center {
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border: 0px solid green;
+}
+
+
