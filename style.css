@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Expletus+Sans&family=Megrim&family=News+Cycle&display=swap');
 
 /* https://fonts.google.com/share?selection.family=Megrim */
-body {
-  margin: 0;
-  font-family: 'Barriecito', cursive;
-}
+body,
+html {
+	height: 100%;
+	margin: 0;
+	padding: 0;}
 
 .jumbotron {
     font-family: 'Barriecito', cursive;
@@ -25,7 +26,7 @@ svg {
   text-decoration: underline;
 }
 
-.center1 {
+/* .center1 {
   color: black;
   display: flex;
   justify-content: center;
@@ -34,9 +35,9 @@ svg {
   border: 0px solid green;
   font-family: 'News Cycle', sans-serif;
   font-size: 3em;
-}
+} */
 
-.center2 {
+/* .center2 {
   color: black;
   display: flex;
   justify-content: center;
@@ -45,7 +46,7 @@ svg {
   border: 0px solid green;
   font-family: 'News Cycle', sans-serif;
   font-size: 1em;
-}
+} */
 
 .footer {
    position: fixed;
@@ -57,3 +58,4 @@ svg {
    text-align: center;
    font-size: 3em;
 }
+
