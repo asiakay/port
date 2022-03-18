@@ -59,3 +59,8 @@ svg {
    font-size: 3em;
 }
 
+#botnav {
+  z-index: 200;
+  width: 100%;
+  display: none;
+}
