@@ -4,8 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-           
-    <link href="wave.css" rel="stylesheet"> 
+            <link href="wave.css" rel="stylesheet">
 
                 <link href="avatar.css" rel="stylesheet">
 
@@ -16,27 +15,6 @@
 
 
 <style>
-fieldset
-{
-  background-color:#CCC;
-  max-width:500px;
-  padding:16px;	
-}
-  
-legend {
-    background-color: #000;
-    color: #fff;
-    padding: 3px 6px;
-}
-
-.output {
-    font: 1rem 'Fira Sans', sans-serif;
-}
-
-input {
-    margin: .4rem;
-}
-  
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
@@ -56,19 +34,68 @@ input {
 
   
   <body class="d-flex flex-column h-100">
+<svg viewbox="0 100 1440 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      .wave {
+        animation: wave 8s linear infinite;
+      }
 
+      .wave1 {
+        animation: wave1 10s linear infinite;
+      }
+
+      .wave2 {
+        animation: wave2 12s linear infinite;
+      }
+
+      @keyframes wave {
+        0% {
+          transform: translateX(0%);
+        }
+
+        100% {
+          transform: translateX(100%);
+        }
+      }
+
+      @keyframes wave1 {
+        0% {
+          transform: scaleY(1.2) translateX(0%);
+        }
+
+        100% {
+          transform: scaleY(1.2) translateX(100%);
+        }
+      }
+
+      @keyframes wave2 {
+        0% {
+          transform: scaleY(.8) translateX(0%);
+        }
+
+        100% {
+          transform: scaleY(.8) translateX(100%);
+        }
+      }
+    </style>
+    <path id='sineWave' fill="#0099ff" fill-opacity="0.2" d="M0,160 C320,300,420,300,740,160 C1060,20,1120,20,1440,160 V0 H0" />
+  </defs>
+  <use class="wave" href="#sineWave" />
+  <use class="wave" x="-100%" href="#sineWave" />
+  <use class="wave1" href="#sineWave" />
+  <use class="wave1" x="-100%" href="#sineWave" />
+  <use class="wave2" href="#sineWave" />
+  <use class="wave2" x="-100%" href="#sineWave" />
+</svg>
 
 
     
     <!-- begin page content  -->
 
+
 <main class="flex-shrink-0">
   <div class="container">
-
-
-
-
-    <center>
     <h1 class="mt-5">Hi. My name is Asia.</h1>
     <p class="lead">
       <!-- avatar -->
@@ -79,18 +106,9 @@ input {
 		</a>
 	</div>
 
-     
 <!-- text content  -->
-      
 <div class="content">
-<fieldset>
-   <legend><a href="https://twitter.com/asialakay">contact</a> | <a href="https://github.com/asiakay">projects</a> | <a href="https://www.linkedin.com/in/asia-lakay-grady-669762b3/">about</a> </legend>
-      Contact me for help with Graphic Design, UX Writing/Research and Web3 Developer Relations. 
- </fieldset>
-
 		<!-- modify this form HTML and place wherever you want your form -->
-  <fieldset>
-    <legend> 
 <form
   action="https://formspree.io/f/xvolreeg"
   method="POST"
@@ -104,14 +122,11 @@ input {
   <br>
   <button type="submit">Send</button>
 </form>
-		   </legend>
-    <a href="https://twitter.com/asialakay">twitter</a> | <a href="https://github.com/asiakay">github</a> | <a href="https://www.linkedin.com/in/asia-lakay-grady-669762b3/">linkedin</a> </legend>
-    </fieldset>
- 
+		
 	</div>
 
     
-
+    Contact me for help with Creative Technology, UX Writing/Research and Web3 Developer Relations. 
     <br>
 <a href="https://padlet.com/asialakay/ut5ofk1704pjygy7">Click here</a> for creative tools.<br>
     <a href="https://padlet.com/asialakay/loz0p1k78g4zv592">Click here</a> for web3 development resources. 
@@ -120,9 +135,9 @@ input {
       </p>
     <p></p>
   </div>
-
+</main>
 </div>
-  </main> 
+
     <!-- footer  -->
 <!-- <a class="support" href="https://www.buymeacoffee.com/asialakay" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&nbsp&emoji=&slug=marioduarte&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
  -->
