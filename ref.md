@@ -24,3 +24,12 @@ https://www.codeply.com/go/xp2fY6sVHP/bootstrap-navbar-over-background-image-ani
 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset
+
+
+Font Options
+https://fonts.google.com/specimen/Righteous
+
+
+https://fonts.google.com/specimen/Aclonica?query=Astigmatic
+
+https://fonts.google.com/specimen/Aclonica
