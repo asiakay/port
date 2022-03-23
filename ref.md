@@ -35,3 +35,20 @@ https://fonts.google.com/specimen/Aclonica?query=Astigmatic
 https://fonts.google.com/specimen/Aclonica
 
 https://codepen.io/russel365/pen/JXaMMm
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_three_columns
+
+https://stackoverflow.com/questions/34408980/bootstrap-page-not-scrollable
+
+https://en.wikipedia.org/wiki/Creative_technology
+
+https://www.thedrum.com/news/2022/01/05/welcome-the-golden-age-creative-technology
+
+https://www.frontiersin.org/articles/10.3389/fpsyg.2022.828981/full
+
+https://www.sciencedirect.com/science/article/pii/S0040162513000590
+
+https://www.creativeboom.com/resources/top-36-fonts-in-2022/
+
+https://fonts.google.com/specimen/Lexend
+"Lexend fonts are intended to reduce visual stress and so improve reading performance. Initially they were designed with dyslexia and struggling readers"

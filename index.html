@@ -20,29 +20,37 @@
 
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Lexend+Deca:wght@100&family=Righteous&display=swap');
   
 body {
-   font-family: 'Righteous', cursive;
+   font-family: 'Lexend Deca', sans-serif;
 
  
 
 }
 
+  ul {
+    list-style-position: outside;
+  }
   
-fieldset
-{
-  background-color:#CCC;
-  max-width:800px;
-  padding:16px;	
-}
-  
-legend {
-    background-color: #000;
-    color: #fff;
-    padding: 3px 6px;
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+  height: 400px;
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;/* Should be removed. Only for demonstration */
 }
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  
 .output {
     font: 1rem 'Fira Sans', sans-serif;
 }
@@ -91,25 +99,55 @@ input {
 		<a href="https://almighty.link/asiak">
 			<img src="avi.JPG" alt="asialakay" width="150px"/>
 		</a>
+   
 	</div>
-<div>
+      <div>
+<div style="text-align: justify;">
+   <h2>I am equal parts creative, developer, and entrepreneur specializing in user experience and creative technology.</h2>
+</div>
       <a href="https://twitter.com/asialakay">twitter</a> | <a href="https://github.com/asiakay">github</a> | <a href="https://www.linkedin.com/in/asia-lakay-grady-669762b3/">linkedin</a> 
   
     
 </div>
 <!-- text content  -->
       
-<div class="content">
+<div class="">
 
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+   <h5>Creative</h5>
+    
+      audio production
+     <br>
+    content writing
+    <br>
+     graphic design
+   <br>
+    photography
+    <br>
+  video editing
+    <br>
+       voiceover
  
- <table style="">
-   <tr>
-     <td><h5>Digital</h5> web3 design, UX/UI design, front-end development</td> <td><h5>Creative</h5>
-graphic design, content writing, audio production</td> <td>  <h5>Technical</h5>
-   software development & implementation, API integration </td>
-   </tr>
-     
- </table>
+
+
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h5>Digital</h5> web3 design<br> UX/UI design<br> front-end development
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h5>Technical</h5>
+   HTML5<br>CSS3<br>JavaScript<br>
+    C#<br>
+    React<br>
+    Node.js<br>
+    SVG animations<br>
+    Python
+  </div>
+</div>
+
+  
+
   
 
 <p></p>
