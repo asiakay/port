@@ -52,3 +52,27 @@ https://www.creativeboom.com/resources/top-36-fonts-in-2022/
 
 https://fonts.google.com/specimen/Lexend
 "Lexend fonts are intended to reduce visual stress and so improve reading performance. Initially they were designed with dyslexia and struggling readers"
+
+https://www.vmware.com/topics/glossary/content/distributed-cloud.html#:~:text=A%20distributed%20cloud%20is%20an,runs%20in%20multiple%20locations%2C%20including
+
+https://www.mindtools.com/CommSkll/ValueProposition.htm#:~:text=What%20Is%20a%20Value%20Proposition,can%20easily%20grasp%20and%20remember.
+
+https://www.entrepreneur.com/article/376607
+
+
+https://corporatefinanceinstitute.com/resources/knowledge/finance/stakeholder/
+
+
+https://www.clearvoice.com/blog/difference-between-mission-vision-statement-examples/
+
+
+https://www.linkedin.com/pulse/manifesto-vs-mission-statement-john-zalepka/
+
+https://www.pmi.org/learning/library/creating-shared-vision-project-team-3624
+
+https://hype4.academy/tools/glassmorphism-generator
+
+
+https://www.topsoe.com/our-resources/knowledge/events
+
+https://www.investor.gov/introduction-investing/investing-basics/glossary/environmental-social-and-governance-esg-investing#:~:text=%E2%80%9CESG%E2%80%9D%20stands%20for%20environmental%2C,responsible%20investing%2C%20and%20impact%20investing.
