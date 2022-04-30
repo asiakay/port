@@ -1,5 +1,5 @@
-input[type=button],
-      input[type=submit] {
+button,
+      button[type=submit] {
         background-color: #19297C;
         border: none;
         border-radius: 5px;
